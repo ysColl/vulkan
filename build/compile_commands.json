@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/yanshuo/Vulkan/build",
+  "command": "/usr/bin/g++    -std=c++17 -O2 -g -o CMakeFiles/Vulkan.dir/VulkanMain.cpp.o -c /home/yanshuo/Vulkan/VulkanMain.cpp",
+  "file": "/home/yanshuo/Vulkan/VulkanMain.cpp"
+}
+]
